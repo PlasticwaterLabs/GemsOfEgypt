@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: db87d0a65cc9afe428b8f05eca3a8a52
+timeCreated: 1458112871
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bones:NH_split05:museumhallRD:www_joel3d_com_Tricer
+    100002: bones:polySurface203
+    100004: bones:polySurface204
+    100006: bones:transform1
+    100008: group1
+    100010: //RootNode
+    100012: pCube1
+    100014: pCylinder1
+    100016: pCylinder10
+    100018: polySurface100
+    100020: polySurface108
+    100022: polySurface41
+    100024: props_2:group1
+    100026: props_2:pCube1
+    100028: props_2:pCube2
+    100030: props_2:polySurface1
+    100032: props_2:polySurface3
+    100034: props_2:polySurface4
+    100036: props_2:props_2:Candles
+    100038: props_2:props_2:Cell_Seat
+    100040: props_2:props_2:Chain_A
+    100042: props_2:props_2:Chain_B
+    100044: props_2:props_2:Chain_C
+    100046: props_2:props_2:Chain_D
+    100048: props_2:props_2:Chain_E
+    100050: props_2:props_2:Crates
+    100052: props_2:props_2:Dungeon_Key_Set
+    100054: props_2:props_2:group1
+    100056: props_2:props_2:group2
+    100058: props_2:props_2:group3
+    100060: props_2:props_2:group4
+    100062: props_2:props_2:Ladder
+    100064: props_2:props_2:pCube1
+    100066: props_2:props_2:pCube1 1
+    100068: props_2:props_2:pCube1 2
+    100070: props_2:props_2:pCube1 3
+    100072: props_2:props_2:pCube2
+    100074: props_2:props_2:pCube2 1
+    100076: props_2:props_2:pCube2 2
+    100078: props_2:props_2:pCube2 3
+    100080: props_2:props_2:pCube3
+    100082: props_2:props_2:pCylinder10
+    100084: props_2:props_2:pCylinder10 1
+    100086: props_2:props_2:pCylinder10 2
+    100088: props_2:props_2:pCylinder10 3
+    100090: props_2:props_2:pCylinder13
+    100092: props_2:props_2:pCylinder14
+    100094: props_2:props_2:pCylinder3
+    100096: props_2:props_2:pCylinder4
+    100098: props_2:props_2:pCylinder5
+    100100: props_2:props_2:pCylinder6
+    100102: props_2:props_2:pCylinder7
+    100104: props_2:props_2:pCylinder8
+    100106: props_2:props_2:pCylinder9
+    100108: props_2:props_2:polySurface1
+    100110: props_2:props_2:pPlane3
+    100112: props_2:props_2:props:Arch_A
+    100114: props_2:props_2:props:Bucket
+    100116: props_2:props_2:props:Candles
+    100118: props_2:props_2:props:Cell_Seat
+    100120: props_2:props_2:props:Chain_A
+    100122: props_2:props_2:props:Chain_B
+    100124: props_2:props_2:props:Chain_C
+    100126: props_2:props_2:props:Chain_D
+    100128: props_2:props_2:props:Chain_E
+    100130: props_2:props_2:props:Chain_Link_13
+    100132: props_2:props_2:props:Chain_Link_14
+    100134: props_2:props_2:props:Chain_Link_15
+    100136: props_2:props_2:props:Chain_Link_16
+    100138: props_2:props_2:props:Chain_Link_17
+    100140: props_2:props_2:props:Chain_Link_18
+    100142: props_2:props_2:props:Chain_Link_19
+    100144: props_2:props_2:props:Chain_Link_20
+    100146: props_2:props_2:props:Chain_Link_21
+    100148: props_2:props_2:props:Chain_Link_22
+    100150: props_2:props_2:props:Chain_Link_23
+    100152: props_2:props_2:props:Crate_B
+    100154: props_2:props_2:props:Crates
+    100156: props_2:props_2:props:Dungeon_Key_Set
+    100158: props_2:props_2:props:Hanging_Cage
+    100160: props_2:props_2:props:Ladder
+    100162: props_2:props_2:props:Plate
+    100164: props_2:props_2:props:Slavery_Chains
+    100166: props_2:props_2:props:Stool_A_Broken
+    100168: props_2:props_2:props:Stool_A_Broken 1
+    100170: props_2:props_2:props:Stools
+    100172: props_2:props_2:props:Table_A
+    100174: props_2:props_2:props:Table_B
+    100176: props_2:props_2:props:Tables
+    100178: props_2:props_2:props:Torch
+    100180: props_2:props_2:props:Tunnel_Grate_Broken
+    100182: props_2:props_2:props:Tunnel_Grates
+    100184: props_2:props_2:props:Wall_A_Roundabout
+    100186: props_2:props_2:props:Wall_D
+    100188: props_2:props_2:props:Wall_E
+    100190: props_2:props_2:pSphere1
+    100192: props_2:props_2:Slavery_Chains
+    100194: props_2:props_2:Stool_A_Broken
+    100196: props_2:props_2:Stools
+    100198: props_2:props_2:Table_A
+    100200: props_2:props_2:Table_B
+    100202: props_2:props_2:Table_C
+    100204: props_2:props_2:Tables
+    100206: props_2:props_2:Tunnel_Grate_Broken
+    100208: props_2:props_2:Tunnel_Grates
+    100210: pSphere3
+    100212: sub01
+    400000: bones:NH_split05:museumhallRD:www_joel3d_com_Tricer
+    400002: bones:polySurface203
+    400004: bones:polySurface204
+    400006: bones:transform1
+    400008: group1
+    400010: //RootNode
+    400012: pCube1
+    400014: pCylinder1
+    400016: pCylinder10
+    400018: polySurface100
+    400020: polySurface108
+    400022: polySurface41
+    400024: props_2:group1
+    400026: props_2:pCube1
+    400028: props_2:pCube2
+    400030: props_2:polySurface1
+    400032: props_2:polySurface3
+    400034: props_2:polySurface4
+    400036: props_2:props_2:Candles
+    400038: props_2:props_2:Cell_Seat
+    400040: props_2:props_2:Chain_A
+    400042: props_2:props_2:Chain_B
+    400044: props_2:props_2:Chain_C
+    400046: props_2:props_2:Chain_D
+    400048: props_2:props_2:Chain_E
+    400050: props_2:props_2:Crates
+    400052: props_2:props_2:Dungeon_Key_Set
+    400054: props_2:props_2:group1
+    400056: props_2:props_2:group2
+    400058: props_2:props_2:group3
+    400060: props_2:props_2:group4
+    400062: props_2:props_2:Ladder
+    400064: props_2:props_2:pCube1
+    400066: props_2:props_2:pCube1 1
+    400068: props_2:props_2:pCube1 2
+    400070: props_2:props_2:pCube1 3
+    400072: props_2:props_2:pCube2
+    400074: props_2:props_2:pCube2 1
+    400076: props_2:props_2:pCube2 2
+    400078: props_2:props_2:pCube2 3
+    400080: props_2:props_2:pCube3
+    400082: props_2:props_2:pCylinder10
+    400084: props_2:props_2:pCylinder10 1
+    400086: props_2:props_2:pCylinder10 2
+    400088: props_2:props_2:pCylinder10 3
+    400090: props_2:props_2:pCylinder13
+    400092: props_2:props_2:pCylinder14
+    400094: props_2:props_2:pCylinder3
+    400096: props_2:props_2:pCylinder4
+    400098: props_2:props_2:pCylinder5
+    400100: props_2:props_2:pCylinder6
+    400102: props_2:props_2:pCylinder7
+    400104: props_2:props_2:pCylinder8
+    400106: props_2:props_2:pCylinder9
+    400108: props_2:props_2:polySurface1
+    400110: props_2:props_2:pPlane3
+    400112: props_2:props_2:props:Arch_A
+    400114: props_2:props_2:props:Bucket
+    400116: props_2:props_2:props:Candles
+    400118: props_2:props_2:props:Cell_Seat
+    400120: props_2:props_2:props:Chain_A
+    400122: props_2:props_2:props:Chain_B
+    400124: props_2:props_2:props:Chain_C
+    400126: props_2:props_2:props:Chain_D
+    400128: props_2:props_2:props:Chain_E
+    400130: props_2:props_2:props:Chain_Link_13
+    400132: props_2:props_2:props:Chain_Link_14
+    400134: props_2:props_2:props:Chain_Link_15
+    400136: props_2:props_2:props:Chain_Link_16
+    400138: props_2:props_2:props:Chain_Link_17
+    400140: props_2:props_2:props:Chain_Link_18
+    400142: props_2:props_2:props:Chain_Link_19
+    400144: props_2:props_2:props:Chain_Link_20
+    400146: props_2:props_2:props:Chain_Link_21
+    400148: props_2:props_2:props:Chain_Link_22
+    400150: props_2:props_2:props:Chain_Link_23
+    400152: props_2:props_2:props:Crate_B
+    400154: props_2:props_2:props:Crates
+    400156: props_2:props_2:props:Dungeon_Key_Set
+    400158: props_2:props_2:props:Hanging_Cage
+    400160: props_2:props_2:props:Ladder
+    400162: props_2:props_2:props:Plate
+    400164: props_2:props_2:props:Slavery_Chains
+    400166: props_2:props_2:props:Stool_A_Broken
+    400168: props_2:props_2:props:Stool_A_Broken 1
+    400170: props_2:props_2:props:Stools
+    400172: props_2:props_2:props:Table_A
+    400174: props_2:props_2:props:Table_B
+    400176: props_2:props_2:props:Tables
+    400178: props_2:props_2:props:Torch
+    400180: props_2:props_2:props:Tunnel_Grate_Broken
+    400182: props_2:props_2:props:Tunnel_Grates
+    400184: props_2:props_2:props:Wall_A_Roundabout
+    400186: props_2:props_2:props:Wall_D
+    400188: props_2:props_2:props:Wall_E
+    400190: props_2:props_2:pSphere1
+    400192: props_2:props_2:Slavery_Chains
+    400194: props_2:props_2:Stool_A_Broken
+    400196: props_2:props_2:Stools
+    400198: props_2:props_2:Table_A
+    400200: props_2:props_2:Table_B
+    400202: props_2:props_2:Table_C
+    400204: props_2:props_2:Tables
+    400206: props_2:props_2:Tunnel_Grate_Broken
+    400208: props_2:props_2:Tunnel_Grates
+    400210: pSphere3
+    400212: sub01
+    2300000: bones:polySurface203
+    2300002: bones:polySurface204
+    2300004: pCube1
+    2300006: pCylinder1
+    2300008: pCylinder10
+    2300010: polySurface100
+    2300012: polySurface108
+    2300014: polySurface41
+    2300016: props_2:pCube1
+    2300018: props_2:pCube2
+    2300020: props_2:polySurface1
+    2300022: props_2:polySurface3
+    2300024: props_2:polySurface4
+    2300026: props_2:props_2:pCube1
+    2300028: props_2:props_2:pCube1 1
+    2300030: props_2:props_2:pCube1 2
+    2300032: props_2:props_2:pCube1 3
+    2300034: props_2:props_2:pCube2
+    2300036: props_2:props_2:pCube2 1
+    2300038: props_2:props_2:pCube2 2
+    2300040: props_2:props_2:pCube2 3
+    2300042: props_2:props_2:pCube3
+    2300044: props_2:props_2:pCylinder10
+    2300046: props_2:props_2:pCylinder10 1
+    2300048: props_2:props_2:pCylinder10 2
+    2300050: props_2:props_2:pCylinder10 3
+    2300052: props_2:props_2:pCylinder14
+    2300054: props_2:props_2:polySurface1
+    2300056: props_2:props_2:props:Arch_A
+    2300058: props_2:props_2:props:Bucket
+    2300060: props_2:props_2:props:Crate_B
+    2300062: props_2:props_2:props:Hanging_Cage
+    2300064: props_2:props_2:props:Plate
+    2300066: props_2:props_2:props:Stool_A_Broken 1
+    2300068: props_2:props_2:props:Torch
+    2300070: props_2:props_2:props:Wall_A_Roundabout
+    2300072: props_2:props_2:pSphere1
+    2300074: pSphere3
+    3300000: bones:polySurface203
+    3300002: bones:polySurface204
+    3300004: pCube1
+    3300006: pCylinder1
+    3300008: pCylinder10
+    3300010: polySurface100
+    3300012: polySurface108
+    3300014: polySurface41
+    3300016: props_2:pCube1
+    3300018: props_2:pCube2
+    3300020: props_2:polySurface1
+    3300022: props_2:polySurface3
+    3300024: props_2:polySurface4
+    3300026: props_2:props_2:pCube1
+    3300028: props_2:props_2:pCube1 1
+    3300030: props_2:props_2:pCube1 2
+    3300032: props_2:props_2:pCube1 3
+    3300034: props_2:props_2:pCube2
+    3300036: props_2:props_2:pCube2 1
+    3300038: props_2:props_2:pCube2 2
+    3300040: props_2:props_2:pCube2 3
+    3300042: props_2:props_2:pCube3
+    3300044: props_2:props_2:pCylinder10
+    3300046: props_2:props_2:pCylinder10 1
+    3300048: props_2:props_2:pCylinder10 2
+    3300050: props_2:props_2:pCylinder10 3
+    3300052: props_2:props_2:pCylinder14
+    3300054: props_2:props_2:polySurface1
+    3300056: props_2:props_2:props:Arch_A
+    3300058: props_2:props_2:props:Bucket
+    3300060: props_2:props_2:props:Crate_B
+    3300062: props_2:props_2:props:Hanging_Cage
+    3300064: props_2:props_2:props:Plate
+    3300066: props_2:props_2:props:Stool_A_Broken 1
+    3300068: props_2:props_2:props:Torch
+    3300070: props_2:props_2:props:Wall_A_Roundabout
+    3300072: props_2:props_2:pSphere1
+    3300074: pSphere3
+    4300000: props_2:props_2:props:Stool_A_Broken
+    4300002: props_2:props_2:props:Bucket
+    4300004: props_2:props_2:props:Crate_B
+    4300006: props_2:props_2:props:Torch
+    4300008: props_2:props_2:props:Hanging_Cage
+    4300010: props_2:props_2:props:Wall_A_Roundabout
+    4300012: props_2:props_2:props:Arch_A
+    4300014: props_2:props_2:props:Plate
+    4300016: props_2:props_2:pCylinder10
+    4300018: props_2:props_2:pCube1
+    4300020: props_2:props_2:pCube2
+    4300022: props_2:props_2:pCube3
+    4300024: props_2:props_2:pCylinder10
+    4300026: props_2:props_2:pCube1
+    4300028: props_2:props_2:pCube2
+    4300030: props_2:props_2:pCylinder10
+    4300032: props_2:props_2:pCube1
+    4300034: props_2:props_2:pCube2
+    4300036: props_2:props_2:pCylinder10
+    4300038: props_2:props_2:pCube1
+    4300040: props_2:props_2:pCube2
+    4300042: props_2:props_2:polySurface1
+    4300044: props_2:polySurface1
+    4300046: props_2:polySurface4
+    4300048: props_2:polySurface3
+    4300050: props_2:pCube1
+    4300052: props_2:pCube2
+    4300054: pCube1
+    4300056: props_2:props_2:pSphere1
+    4300058: props_2:props_2:pCylinder14
+    4300060: pCylinder1
+    4300062: pSphere3
+    4300064: pCylinder10
+    4300066: bones:polySurface203
+    4300068: bones:polySurface204
+    4300070: polySurface41
+    4300072: polySurface108
+    4300074: polySurface100
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
